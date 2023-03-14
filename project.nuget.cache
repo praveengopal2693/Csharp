@@ -1,0 +1,32 @@
+{
+  "version": 2,
+  "dgSpecHash": "m0ZfILF7VU1Duf0KhYITxRX0eC2bvF5rf8L2SVG8sBBRiUPicrCtyJG5HZh5fYZhfRjjnGCKXXJ2/9jC/PiEdA==",
+  "success": true,
+  "projectFilePath": "/Users/praveeng/Projects/Teamone/Teamone/Teamone.csproj",
+  "expectedPackageFiles": [
+    "/Users/praveeng/.nuget/packages/coverlet.collector/3.2.0/coverlet.collector.3.2.0.nupkg.sha512",
+    "/Users/praveeng/.nuget/packages/dotnetseleniumextras.pageobjects/3.11.0/dotnetseleniumextras.pageobjects.3.11.0.nupkg.sha512",
+    "/Users/praveeng/.nuget/packages/dotnetseleniumextras.pageobjects.core/4.3.0/dotnetseleniumextras.pageobjects.core.4.3.0.nupkg.sha512",
+    "/Users/praveeng/.nuget/packages/dotnetseleniumextras.pageobjects.core.linq/1.0.0/dotnetseleniumextras.pageobjects.core.linq.1.0.0.nupkg.sha512",
+    "/Users/praveeng/.nuget/packages/dotnetseleniumextras.waithelpers/3.11.0/dotnetseleniumextras.waithelpers.3.11.0.nupkg.sha512",
+    "/Users/praveeng/.nuget/packages/microsoft.codecoverage/17.5.0/microsoft.codecoverage.17.5.0.nupkg.sha512",
+    "/Users/praveeng/.nuget/packages/microsoft.net.test.sdk/17.5.0/microsoft.net.test.sdk.17.5.0.nupkg.sha512",
+    "/Users/praveeng/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/praveeng/.nuget/packages/microsoft.testplatform.objectmodel/17.5.0/microsoft.testplatform.objectmodel.17.5.0.nupkg.sha512",
+    "/Users/praveeng/.nuget/packages/microsoft.testplatform.testhost/17.5.0/microsoft.testplatform.testhost.17.5.0.nupkg.sha512",
+    "/Users/praveeng/.nuget/packages/netstandard.library/2.0.0/netstandard.library.2.0.0.nupkg.sha512",
+    "/Users/praveeng/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512",
+    "/Users/praveeng/.nuget/packages/nuget.frameworks/5.11.0/nuget.frameworks.5.11.0.nupkg.sha512",
+    "/Users/praveeng/.nuget/packages/nunit/3.13.3/nunit.3.13.3.nupkg.sha512",
+    "/Users/praveeng/.nuget/packages/nunit.analyzers/3.6.1/nunit.analyzers.3.6.1.nupkg.sha512",
+    "/Users/praveeng/.nuget/packages/nunit3testadapter/4.4.2/nunit3testadapter.4.4.2.nupkg.sha512",
+    "/Users/praveeng/.nuget/packages/selenium.community.pageobjects/1.0.0/selenium.community.pageobjects.1.0.0.nupkg.sha512",
+    "/Users/praveeng/.nuget/packages/selenium.support/4.8.1/selenium.support.4.8.1.nupkg.sha512",
+    "/Users/praveeng/.nuget/packages/selenium.webdriver/4.8.1/selenium.webdriver.4.8.1.nupkg.sha512",
+    "/Users/praveeng/.nuget/packages/selenium.webdriver.chromedriver/111.0.5563.6400/selenium.webdriver.chromedriver.111.0.5563.6400.nupkg.sha512",
+    "/Users/praveeng/.nuget/packages/seleniumextras.waithelpers/1.0.2/seleniumextras.waithelpers.1.0.2.nupkg.sha512",
+    "/Users/praveeng/.nuget/packages/system.reflection.dispatchproxy/4.5.1/system.reflection.dispatchproxy.4.5.1.nupkg.sha512",
+    "/Users/praveeng/.nuget/packages/system.reflection.metadata/1.6.0/system.reflection.metadata.1.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}
